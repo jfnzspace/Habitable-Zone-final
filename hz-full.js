@@ -223,6 +223,7 @@ window.addEventListener('DOMContentLoaded', () => {
   unitSelect.addEventListener('change', updateInputs);
   unitSelect.addEventListener('change', showAll);
 
+  
 
   // ปุ่มแสดงขอบเขตแยก
   btnShowMin.addEventListener('click', showInner);
