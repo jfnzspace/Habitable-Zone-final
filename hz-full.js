@@ -222,7 +222,6 @@ window.addEventListener('DOMContentLoaded', () => {
   unitSelect.addEventListener('click', showAll); 
   unitSelect.addEventListener('change', updateInputs);
   unitSelect.addEventListener('change', showAll);
-
   
 
   // ปุ่มแสดงขอบเขตแยก
